@@ -1,2 +1,6 @@
-# Initial page
+
+# common-knowledge
+
+This is a random introduction.
+
 
