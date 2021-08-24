@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Common Knowledge Main Portal](README.md)
 
