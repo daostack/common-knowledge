@@ -1,2 +1,2 @@
-# Ronen variant
+# Initial page
 
